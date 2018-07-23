@@ -1,0 +1,8 @@
+{
+  "name": "voxpopDemo",
+  "app_id": "5ea94b77",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
